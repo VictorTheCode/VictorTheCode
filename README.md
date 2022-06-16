@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @VictorTheCode
-- 👀 I’m interested in anything that is related to programming and computers
-- 🌱 I’m currently learning frond-end develepment and also blockchain development
-- 💞️ I’m looking to collaborate on projects pertaining to wed development and blockchain technology
-- 📫 How to reach me ... You can reach me on twitter <strong>@VictorOkpaire10</strong> and on LinkedIn as <strong>Victor Okpaire</strong> and also on Instagram as <strong>victor_jayson19</strong>
-- 
-Cheers!!!
+
+##### . 👋 Hi, I’m Victor Okpaire
+##### . 👀 I’m a 16 year-old software Developer
+##### . 👀 Lover of Coding, Artificial Intelligence, Robotics
+##### . 🌱 I’m currently into web development "Front-End", and Blockchain
+##### . 🌱 Ask me anything about coding with React, JavaScript, HTML, CSS
+##### . 💞️ I’m looking to collaborate on any project using JavaScript, Typescript, React, and block chain
+##### . 📫 How to reach me victorokpaire@gmail.com
 <!---
 VictorTheCode/VictorTheCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
