@@ -1,6 +1,6 @@
 
 ##### . 👋 Hi, I’m Victor Okpaire
-##### . 👀 I’m a 16 year-old software Developer
+##### . 👀 I’m a 17 year-old web Developer
 ##### . 👀 Lover of Coding, Artificial Intelligence, Robotics
 ##### . 🌱 I’m currently into web development "Front-End", and Blockchain
 ##### . 🌱 Ask me anything about coding with React, JavaScript, HTML, CSS
