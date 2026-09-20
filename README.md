@@ -83,6 +83,3 @@ View my projects and case studies on my portfolio.
 **GitHub:** [@VictorTheCode](https://github.com/VictorTheCode)  
 **Email:** [victorokpaire188@gmail.com](mailto:victorokpaire188@gmail.com)
 
----
-
-### Building software that solves problems and creates value.
